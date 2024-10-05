@@ -2,14 +2,6 @@
 
 This project provides an interactive visualization of the irrational nature of π (pi) using rotating radial arms. It creates a mesmerizing pattern that never repeats, illustrating the endless decimal expansion of pi.
 
-## Features
-
-- Real-time visualization of pi's irrational nature
-- Interactive controls for speed adjustment and zooming
-- Toggle between monochrome and rainbow color modes
-- High-quality graphics with anti-aliasing for smooth lines
-- Informative pop-up menu with instructions
-
 ## Requirements
 
 - Python 3.x
